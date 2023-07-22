@@ -1,0 +1,28 @@
+import 'flower_details_screen.dart';
+import 'package:flutter/material.dart';
+import './models/flower.dart';
+
+class FlowerDetailsScreen extends StatelessWidget {
+  final Flower flower;
+
+  const FlowerDetailsScreen({required this.flower});
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: Text(flower.name),
+      ),
+      body: Center(
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Image.network(flower.url),
+            Text(flower.name),
+            // Add more widgets to display other details about the flower
+          ],
+        ),
+      ),
+    );
+  }
+}

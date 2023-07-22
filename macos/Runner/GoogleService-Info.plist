@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>940367622760-t4oq6f5l8d75dms927nujcdarh9aj671.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.940367622760-t4oq6f5l8d75dms927nujcdarh9aj671</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDz8o_v1gS1KvIjb_9NM48ybYTb4B7NaPQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>940367622760</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.flutterApplication1</string>
+	<key>PROJECT_ID</key>
+	<string>la-fleur-715a3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>la-fleur-715a3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:940367622760:ios:24a982900fa5258b6781dd</string>
+</dict>
+</plist>
